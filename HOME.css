@@ -1,0 +1,45 @@
+nav{
+    color: lightpink;
+    background-color: transparent;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 10px;
+    
+}
+h1{
+    margin-top: 0px;
+    color: wheat;
+    text-align: center;
+    font-style: oblique;
+    font-size: 90px;
+    
+}
+p{
+    color: lightgoldenrodyellow;
+    text-align: center;
+    font font-style: normal;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+img{
+    width: 20%; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+}
+
+a: link{
+    color: coral;
+}
+a: visited{
+    color: darkred;
+}
+a:hover{
+    color:aqua;
+}
+a:active{
+    color: brown;
+}
+

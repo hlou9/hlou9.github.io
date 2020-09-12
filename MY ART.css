@@ -1,0 +1,35 @@
+pre{
+    color: lightgoldenrodyellow;
+    background-color: transparent;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 10px;
+    
+}
+a: link{
+    color: coral;
+}
+a: visited{
+    color: lightblue;
+}
+a:hover{
+    color:aqua;
+}
+a:active{
+    color: lightyellow;
+}
+
+img{
+    width: 30%; 
+    margin-left: 50px;
+    margin-right: auto;
+    float: none;
+}
+h6{
+    color:lightcyan;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    
+}

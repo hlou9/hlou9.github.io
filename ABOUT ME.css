@@ -1,0 +1,45 @@
+nav{
+    color: lightcyan;
+    background-color: transparent;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 10px;
+    
+}
+img{
+    width: 15%; 
+    margin-left: 50px;
+    margin-right: 50px;
+    float: left;
+    margin-bottom: 1000px;
+}
+body{
+    background-color: darkslategray;
+}
+p{
+    color: whitesmoke;
+    text-align: start;
+    font font-style: normal;
+    font-size: 20px;
+    font-family: cursive;
+
+}
+p2{
+    color: brown;
+    text-align: start;
+    font font-style: normal;
+    font-size: 20px;
+    font-family: cursive;
+}
+a: link{
+    color: coral;
+}
+a: visited{
+    color: darkred;
+}
+a:hover{
+    color:aqua;
+}
+a:active{
+    color: brown;
+}
